@@ -1,3 +1,31 @@
+## 👥 Team
+
+본 프로젝트는 여러 팀원이 각자의 장비와 클라우드 리소스를 활용하여 하나의 인프라 환경을 구성하고 함께 학습합니다.
+
+각 팀원의 역할과 GitHub 정보는 아래에서 확인할 수 있습니다.
+
+| Member | Role | GitHub                                       |
+| ------ | ---- | -------------------------------------------- |
+| 주용완    | -    | [@YongwanJoo](https://github.com/YongwanJoo) |
+| 정장우    | -    | [@Smallt0wn](https://github.com/Smallt0wn)   |
+| 홍진기    | -    | [@llokr1](https://github.com/llokr1)         |
+
+### Members
+
+<p align="center">
+  <a href="https://github.com/YongwanJoo">
+    <img src="https://github.com/YongwanJoo.png" width="150px" alt="YongwanJoo"/>
+  </a>
+  <a href="https://github.com/Smallt0wn">
+    <img src="https://github.com/Smallt0wn.png" width="150px" alt="Smallt0wn"/>
+  </a>
+  <a href="https://github.com/llokr1">
+    <img src="https://github.com/llokr1.png" width="150px" alt="llokr1"/>
+  </a>
+</p>
+
+---
+
 ## 🏗️ Infrastructure Architecture
 
 본 프로젝트는 여러 대의 물리 장비와 OCI VM을 WireGuard VPN으로 연결하여 하나의 사설 네트워크를 구성하고, 그 위에 Kubernetes 및 OpenStack-Helm 환경을 구축합니다.
@@ -220,31 +248,3 @@ Repository에는 다음 정보를 포함하지 않습니다.
 wg0.conf.example
 inventory.example
 ```
-
----
-
-## 👥 Team
-
-본 프로젝트는 여러 팀원이 각자의 장비와 클라우드 리소스를 활용하여 하나의 인프라 환경을 구성하고 함께 학습합니다.
-
-각 팀원의 역할과 GitHub 정보는 아래에서 확인할 수 있습니다.
-
-| Member | Role                                         | GitHub                                       |
-| ------ | -------------------------------------------- | -------------------------------------------- |
-| 주용완    | Infrastructure / Kubernetes / OpenStack-Helm | [@YongwanJoo](https://github.com/YongwanJoo) |
-| 정장우    | -                                            | [@Smallt0wn](https://github.com/Smallt0wn)   |
-| 홍진기    | -                                            | [@llokr1](https://github.com/llokr1)         |
-
-### Members
-
-<p align="center">
-  <a href="https://github.com/YongwanJoo">
-    <img src="https://github.com/YongwanJoo.png" width="100px" alt="YongwanJoo"/>
-  </a>
-  <a href="https://github.com/Smallt0wn">
-    <img src="https://github.com/Smallt0wn.png" width="100px" alt="Smallt0wn"/>
-  </a>
-  <a href="https://github.com/llokr1">
-    <img src="https://github.com/llokr1.png" width="100px" alt="llokr1"/>
-  </a>
-</p>
