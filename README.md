@@ -1,28 +1,48 @@
-## 👥 Team
+## 👥 팀원 소개
 
 본 프로젝트는 여러 팀원이 각자의 장비와 클라우드 리소스를 활용하여 하나의 인프라 환경을 구성하고 함께 학습합니다.
 
 각 팀원의 역할과 GitHub 정보는 아래에서 확인할 수 있습니다.
 
-| Member | Role | GitHub                                       |
-| ------ | ---- | -------------------------------------------- |
-| 주용완    | -    | [@YongwanJoo](https://github.com/YongwanJoo) |
-| 정장우    | -    | [@Smallt0wn](https://github.com/Smallt0wn)   |
-| 홍진기    | -    | [@llokr1](https://github.com/llokr1)         |
-
-### Members
-
-<p align="center">
-  <a href="https://github.com/YongwanJoo">
-    <img src="https://github.com/YongwanJoo.png" width="150px" alt="YongwanJoo"/>
-  </a>
-  <a href="https://github.com/Smallt0wn">
-    <img src="https://github.com/Smallt0wn.png" width="150px" alt="Smallt0wn"/>
-  </a>
-  <a href="https://github.com/llokr1">
-    <img src="https://github.com/llokr1.png" width="150px" alt="llokr1"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://github.com/YongwanJoo">
+          <img src="https://github.com/YongwanJoo.png" width="150px" alt="주용완"/>
+        </a><br />
+        <br />
+        <b>주용완</b><br />
+        &nbsp;<br />
+        <a href="https://github.com/YongwanJoo">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://github.com/Smallt0wn">
+          <img src="https://github.com/Smallt0wn.png" width="150px" alt="정장우"/>
+        </a><br />
+        <br />
+        <b>정장우</b><br />
+        &nbsp;<br />
+        <a href="https://github.com/Smallt0wn">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://github.com/llokr1">
+          <img src="https://github.com/llokr1.png" width="150px" alt="홍진기"/>
+        </a><br />
+        <br />
+        <b>홍진기</b><br />
+        &nbsp;<br />
+        <a href="https://github.com/llokr1">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
