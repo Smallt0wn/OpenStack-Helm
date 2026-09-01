@@ -1,0 +1,60 @@
+# ==================================================
+# Secrets / Credentials
+# ==================================================
+secrets/
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.kubeconfig
+kubeconfig
+kubeconfig-*
+
+# Keep reproducible version declaration
+!versions.env
+
+
+# ==================================================
+# Runtime / Cluster snapshots
+# ==================================================
+snapshots/
+
+helm-releases.txt
+nodes.txt
+pods.txt
+storage-status.txt
+
+
+# ==================================================
+# Helm generated / live state
+# ==================================================
+**/installed-values.yaml
+**/computed-values.yaml
+**/manifest.yaml
+
+
+# ==================================================
+# Kubernetes generated secret dumps
+# ==================================================
+**/*secret*.yaml
+**/*secrets*.yaml
+
+
+# ==================================================
+# Temporary / Backup files
+# ==================================================
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+
+
+# ==================================================
+# IDE
+# ==================================================
+.idea/
+.vscode/
