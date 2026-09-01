@@ -1,0 +1,5 @@
+309bc27dc549d9b49f6709dbd6b8fbe6ca9d8a5a5d2aa0678fe1c59e5865b912  infrastructure/envoy-gateway/default-values-v1.7.0.yaml
+d69acf3556819d6c8686d854c6360186ceecb56860470b12306524e0f6910e01  infrastructure/metallb/default-values-0.16.1.yaml
+ccd89fbc51ac353501768c518bfa8c57e02cb1389009b8f4c42df243e6e329bc  infrastructure/rook-ceph/default-values-v1.20.6.yaml
+f62b5b519277d413ac01f95b61842a83f7aa7f9a951035446936bfa7711802cb  infrastructure/ceph-csi-drivers/default-values-1.0.4.yaml
+ca6baa1368636173c30fe56cc0fad8c04b820ef7de4fb74c169f5876080f7a80  infrastructure/ceph-csi-drivers/rook-values-v1.20.6.yaml
